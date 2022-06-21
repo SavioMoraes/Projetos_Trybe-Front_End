@@ -1,0 +1,1 @@
+Repositório contendo os projetos que desenvolvi durante o módulo 02 - Front-End - do curso de Desenvolvedor Web Full Stack na Trybe :computer:
